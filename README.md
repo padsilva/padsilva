@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=padsilva" alt="padsilva" /></a> </p>
 
-- 📫 How to reach me **pauloalexandreduartesilva@gmail.com**
+- 📫 How to reach me pauloalexandreduartesilva@gmail.com
 
 - 📄 Know about my experiences https://paulocostasilva.com/
 
